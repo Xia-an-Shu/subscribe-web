@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/subscribe-web/static/css/main.31d6cfe0.css",
+    "main.js": "/subscribe-web/static/js/main.bba3625e.js",
+    "index.html": "/subscribe-web/index.html",
+    "main.bba3625e.js.map": "/subscribe-web/static/js/main.bba3625e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.bba3625e.js"
+  ]
+}
